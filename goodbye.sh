@@ -1,1 +1,2 @@
-Au revoir
+#!/bin/bash
+echo "Au revoir"
